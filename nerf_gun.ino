@@ -1,6 +1,6 @@
 #include <Wire.h> 
 #include <LiquidCrystal_I2C.h>
-#include <Encoder.h>
+#include <Encoder.h>  // https://github.com/PaulStoffregen/Encoder
 
 
 // Change these two numbers to the pins connected to your encoder.
